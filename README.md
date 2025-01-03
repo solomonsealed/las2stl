@@ -41,8 +41,3 @@ many slicers auto-convert meters to millimeters.
 
 Must be greater than 0.0. Minimal thickness in Millimeters of the base the model
 stands on.
-
-| BASE_THICKNESS=5 | BASE_THICKNESS=50 |
-|---|---|
-| ![](doc/base5.png) | ![](doc/base50.png) |
-| 5mm of spacing is added below the lowest point | 50mm of spacing is added below the lowest point |
