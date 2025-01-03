@@ -7,8 +7,7 @@ parameters to control the output of the script.
 
 ## Requirements
 
-Python 3.10 works best for me
-Install requirements: `pip install -r requirements.txt`
+Python 3.10 works best for me. Install requirements: `pip install -r requirements.txt`
 
 ## Usage
 
